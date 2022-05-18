@@ -37,21 +37,21 @@ function FormCard( { movieId }  : Props) {
 
         const config: AxiosRequestConfig = {
             baseURL: BASE_URL,
-            method: 'PUT',
-            url: '/scores',
+            method: "PUT",
+            url: "/scores",
             data: {
                 email: email,
                 movieId: movieId,
-                score: score
-            }
-        }
+                score: score,
+            },
+        };
 
         axios(config).then(response => {
             console.log(response.data);
             navigate("/");
         });
 
-    }
+    };
 
 
     return (

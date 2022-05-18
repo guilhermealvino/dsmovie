@@ -1,5 +1,38 @@
 # Getting Started with Create React App
 
+<p align="center">
+
+  <a href="">
+    <img alt="Made by Guilherme" src="https://img.shields.io/badge/made%20by-Guilherme Alvino-%23F8952D">
+  </a>
+
+
+<h1 align="center">Bem vindo ao <u>DSMovie</u> ⚡</h1>
+
+<p align="center"><code>App para avaliação de filmes WEB responsivo</code></p>
+
+<div align="center">
+  
+  <img alt="Made by Guilherme" src="https://img.shields.io/badge/made%20by-Guilherme Alvino-%23F8952D"> 
+  <img src="https://img.shields.io/github/languages/count/williamjesusdev/DSMovie?color=ff8400"/>
+  <a aria-label="Dia 2 de 4" href="https://devsuperior.com.br/evento-sds?episodio=2">
+  <img src="https://img.shields.io/badge/SemanaSpringReact-7.0-ff8400"/>
+  </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-ff8400"/>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/java-17-red?logo=java&logoColor=red"/>
+  <img src="https://img.shields.io/badge/backend-v0.1.0-red"/>
+  <img src="https://img.shields.io/badge/node-v16.15.0-green?logo=node.js"/>
+  <img src="https://img.shields.io/badge/react-17.0.2-informational?logo=react"/>  
+</div>
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -44,3 +77,12 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+---
+Esse projeto foi na Semana Spring React do [Nélio Alves](https://github.com/acenelio) da DevSuperior
+
+
+
+
+Feito com :heart: Guilherme.<br>
