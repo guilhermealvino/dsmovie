@@ -17,12 +17,12 @@ function FormCard( { movieId }  : Props) {
 
     useEffect(() => {
         axios.get(`${BASE_URL}/movies/${movieId}`)
-        .then(response => {
-            setMovie(response.data);
-        })
+            .then(response => {
+                setMovie(response.data);
+            });
     }, [movieId]);
 
-    const handleSubmit = (event: React.FormEvent<HTMLFormElement>) =>{
+    const handleSubmit = (event: React.FormEvent<HTMLFormElement> ) =>{
 
         event.preventDefault();
 
@@ -47,7 +47,7 @@ function FormCard( { movieId }  : Props) {
         }
 
         axios(config).then(response => {
-            //console.log(response.data);
+            console.log(response.data);
             navigate("/");
         });
 

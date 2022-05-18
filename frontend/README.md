@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+<p align="center">
+
+  <a href="">
+    <img alt="Made by Guilherme Alvino" src="https://img.shields.io/badge/made%20by-Guilherme-%23F8952D">
+  </a>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -44,3 +50,12 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+
+Esse projeto foi na Semana Spring React do [Nélio Alves](https://github.com/acenelio) da DevSuperior
+
+
+---
+
+Feito com :heart: Guilherme.<br>
