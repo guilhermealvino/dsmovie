@@ -3,7 +3,7 @@
 <p align="center">
 
   <a href="">
-    <img alt="Made by Guilherme Alvino" src="https://img.shields.io/badge/made%20by-Guilherme-%23F8952D">
+    <img alt="Made by Guilherme" src="https://img.shields.io/badge/made%20by-Guilherme Alvino-%23F8952D">
   </a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -52,10 +52,10 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 
-
+---
 Esse projeto foi na Semana Spring React do [Nélio Alves](https://github.com/acenelio) da DevSuperior
 
 
----
+
 
 Feito com :heart: Guilherme.<br>
